@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleBasicWidget</string>
+    <string name="email_title">E-Mail</string>
+    <string name="password_title">Password</string>
+    <string name="ok_title">OK</string>
+    <string name="cancel_title">Cancel</string>
+</resources>
