@@ -16,8 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".LinearActivity" />
-        <activity android:name=".RelativeActivity"></activity>
-        <activity android:name=".GridActivity"></activity>
+        <activity android:name=".RelativeActivity" />
+        <activity android:name=".GridActivity" />
+        <activity android:name=".TextActivity"></activity>
     </application>
 
 </manifest>

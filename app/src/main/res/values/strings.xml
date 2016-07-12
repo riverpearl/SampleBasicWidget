@@ -4,4 +4,10 @@
     <string name="password_title">Password</string>
     <string name="ok_title">OK</string>
     <string name="cancel_title">Cancel</string>
+    <string name="test_text">test text view test text view test text view test text view test text view test text view test text view test text view test text view</string>
+    <string name="marquee_title">MARQUEE</string>
+    <string name="change_title">CHANGE</string>
+    <string name="change_text_message">change text message</string>
+    <string name="html_title">HTML</string>
+    <string name="html_text"><![CDATA[<font color="red">Hi</font>, <h1>Android</h1>]]></string>
 </resources>
