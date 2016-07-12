@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorText">#ff0000</color>
+    <color name="text_normal_color">@color/colorPrimary</color>
+    <color name="text_pressed_color">@color/colorAccent</color>
 </resources>
