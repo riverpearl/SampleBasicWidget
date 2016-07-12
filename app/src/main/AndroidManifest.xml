@@ -19,7 +19,9 @@
         <activity android:name=".RelativeActivity" />
         <activity android:name=".GridActivity" />
         <activity android:name=".TextActivity" />
-        <activity android:name=".ButtonActivity"></activity>
+        <activity android:name=".ButtonActivity" />
+        <activity android:name=".RadioActivity" />
+        <activity android:name=".CheckActivity"></activity>
     </application>
 
 </manifest>

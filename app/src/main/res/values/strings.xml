@@ -11,4 +11,9 @@
     <string name="html_title">HTML</string>
     <string name="html_text"><![CDATA[<font color="red">Hi</font>, <h1>Android</h1>]]></string>
     <string name="toast_title">TOAST</string>
+    <string name="check_title">CHECK</string>
+    <string name="radio_b1_title">b1</string>
+    <string name="radio_b2_title">b2</string>
+    <string name="radio_b3_title">b3</string>
+    <string name="set_b2_title">SET B2</string>
 </resources>
