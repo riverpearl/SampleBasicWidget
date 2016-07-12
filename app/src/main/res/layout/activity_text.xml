@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/change_title"
-        android:id="@+id/btn_change"
+        android:id="@+id/btn_change_level"
         android:layout_alignBottom="@+id/btn_marquee"
         android:layout_toRightOf="@+id/btn_marquee"
         android:layout_toEndOf="@+id/btn_marquee" />
@@ -44,7 +44,7 @@
         android:layout_height="wrap_content"
         android:text="@string/html_title"
         android:id="@+id/btn_html"
-        android:layout_alignTop="@+id/btn_change"
-        android:layout_toRightOf="@+id/btn_change"
-        android:layout_toEndOf="@+id/btn_change" />
+        android:layout_alignTop="@+id/btn_change_level"
+        android:layout_toRightOf="@+id/btn_change_level"
+        android:layout_toEndOf="@+id/btn_change_level" />
 </RelativeLayout>

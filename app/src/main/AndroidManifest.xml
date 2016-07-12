@@ -22,9 +22,10 @@
         <activity android:name=".ButtonActivity" />
         <activity android:name=".RadioActivity" />
         <activity android:name=".CheckActivity" />
-        <activity android:name=".EditActivity"
-            android:windowSoftInputMode="stateVisible|adjustResize">
-        </activity>
+        <activity
+            android:name=".EditActivity"
+            android:windowSoftInputMode="stateVisible|adjustResize"></activity>
+        <activity android:name=".ImageActivity"></activity>
     </application>
 
 </manifest>

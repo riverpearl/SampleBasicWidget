@@ -25,7 +25,7 @@ public class TextActivity extends AppCompatActivity {
             }
         });
 
-        btn = (Button)findViewById(R.id.btn_change);
+        btn = (Button)findViewById(R.id.btn_change_level);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
